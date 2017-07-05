@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Basketball Quiz</string>
+    <string name="basketball_quiz_header">Basketball Quiz</string>
+    <string name="welcome_to_header">Welcome to</string>
+    <string name="enter_name_header">Please enter your name below: </string>
+    <string name="enter_name_field">Name</string>
+    <string name="scroll_to_start_quiz_header">Scroll down to start quiz</string>
+    <string name="question1_header">Question 1</string>
+    <string name="question2_header">Question 2</string>
+    <string name="question3_header">Question 3</string>
+    <string name="question4_header">Question 4</string>
+    <string name="question5_header">Question 5</string>
+    <string name="question6_header">Question 6</string>
+    <string name="question7_header">Question 7</string>
+
+
+    <string name="question1">Dirk Nowitzki won MVP in which year?</string>
+    <string name="question1_answer1">2004\u20142005</string>
+    <string name="question1_answer2">2005\u20142006</string>
+    <string name="question1_answer3">2006\u20142007</string>
+    <string name="question1_answer4">2007\u20142008</string>
+
+    <string name="question2">How many championships have the Boston Celtics won?</string>
+    <string name="question2_answer1">14</string>
+    <string name="question2_answer2">15</string>
+    <string name="question2_answer3">16</string>
+    <string name="question2_answer4">17</string>
+
+
+    <string name="question3">Which player won the most MVPs in their career?</string>
+    <string name="question3_answer1">Kareem Abdul-Jabbar</string>
+    <string name="question3_answer2">Michael Jordan</string>
+    <string name="question3_answer3">Bill Russell</string>
+    <string name="question3_answer4">Magic Johnson</string>
+
+    <string name="question4">How many championships has Michael Jordan won?</string>
+    <string name="question4_answer1">4</string>
+    <string name="question4_answer2">5</string>
+    <string name="question4_answer3">6</string>
+    <string name="question4_answer4">7</string>
+
+    <string name="question5">Which player(s) had two back-to-back MVPs?</string>
+    <string name="question5_answer1">Stephen Curry</string>
+    <string name="question5_answer2">Kareem Abdul-Jabbar</string>
+    <string name="question5_answer3">Kobe Bryant</string>
+    <string name="question5_answer4">LeBron James</string>
+
+    <string name="question6">Which player(s) did NOT play on the Los Angeles Lakers?</string>
+    <string name="question6_answer1">Larry Bird</string>
+    <string name="question6_answer2">Shaquille ONeal</string>
+    <string name="question6_answer3">Kareem Abdul-Jabbar</string>
+    <string name="question6_answer4">LeBron James</string>
+
+    <string name="question7">Which player plays on the Dallas Mavericks?</string>
+    <string name="question7_answer1">Steve Nash</string>
+    <string name="question7_answer2">Dirk Nowitzki</string>
+    <string name="question7_answer3">Draymond Green</string>
+    <string name="question7_answer4">Kyrie Irving</string>
+
+    <string name="submit_button">Submit</string>
+    <string name="results">Results</string>
+    <string name="num_of_questions_correct">Number of Questions Correct: </string>
+    <string name="num_of_questions_wrong">Number of Questions Wrong: </string>
+    <string name="reset_button">Reset</string>
+    <string name="share_button">Share</string>
+
+    <string name="results_no_missed">Congratulations! You are a basketball guru!</string>
+    <string name="results_1_to_2_missed">Well done! You are almost a master of basketball history!</string>
+    <string name="results_3_to_5_missed">Aw, man! It is alright. You are on your way to becoming a master</string>
+    <string name="results_6_missed">Do not worry! You will do better next time :)</string>
+    <string name="results_all_missed">R.I.P., but it is okay! Keep on learning more about basketball history!</string>
+
+
+</resources>
+
+
